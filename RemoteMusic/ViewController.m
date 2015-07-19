@@ -44,8 +44,6 @@
             [[GVMusicPlayerController sharedInstance] play];
         }
     }
-    
-    
 }
 
 - (IBAction)pauseButtonPressed {
@@ -93,9 +91,9 @@
 }
 
 - (IBAction) postToRSS {
-    NSURL *paymentURL = [NSURL URLWithString:@"https://quiet-sands-6289.herokuapp.com/addtoxml"];
+    NSURL *rssURL = [NSURL URLWithString:@"https://quiet-sands-6289.herokuapp.com/addtoxml"];
     
-    NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:paymentURL];
+    NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:rssURL];
     
     [request setHTTPMethod:@"POST"];
     [request setValue:@"text/plain" forHTTPHeaderField:@"Accept"];
@@ -112,10 +110,8 @@
                                    
                                    NSLog(@"success");
                                    
-                                   
                                }    else    {
                                    NSLog(@"what");
-                                   
                                 }
                                
                            }];
@@ -189,7 +185,7 @@
                                    [self.btnPay setTitle:@" Thanks! " forState:UIControlStateNormal];
                                    
                                    
-                               }    else    {
+                               }else{
                                    
                                    UIAlertView *alert = [[UIAlertView alloc] initWithTitle: @"Braintree returns"
                                                                                    message: connectionError.localizedDescription
@@ -198,11 +194,7 @@
                                                                          otherButtonTitles:nil];
                                    [alert show];
                                }
-                               
                            }];
-    
 }
-
-
 
 @end

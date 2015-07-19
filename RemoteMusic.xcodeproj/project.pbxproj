@@ -23,9 +23,9 @@
 		5A14B81D1B5B29C500D51D21 /* libTelephonyIOKitDynamic.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A14B8161B5B29C500D51D21 /* libTelephonyIOKitDynamic.dylib */; };
 		5A14B81E1B5B29C500D51D21 /* libTelephonyUSBDynamic.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A14B8171B5B29C500D51D21 /* libTelephonyUSBDynamic.dylib */; };
 		5A14B81F1B5B29C500D51D21 /* libTelephonyUtilDynamic.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A14B8181B5B29C500D51D21 /* libTelephonyUtilDynamic.dylib */; };
-		5A14B86C1B5BD2C100D51D21 /* iphone-twrly-1e.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A14B86A1B5BD2C100D51D21 /* iphone-twrly-1e.png */; };
-		5A14B86D1B5BD2C100D51D21 /* iphone-twrly-load2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5A14B86B1B5BD2C100D51D21 /* iphone-twrly-load2.jpg */; };
-		5A14B86F1B5BF20600D51D21 /* iphone-twrly-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A14B86E1B5BF20500D51D21 /* iphone-twrly-2.png */; };
+		5A14B8731B5C17CD00D51D21 /* iphone-twrly-1e.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A14B8701B5C17CD00D51D21 /* iphone-twrly-1e.png */; };
+		5A14B8741B5C17CD00D51D21 /* iphone-twrly-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A14B8711B5C17CD00D51D21 /* iphone-twrly-2.png */; };
+		5A14B8751B5C17CD00D51D21 /* iphone-twrly-load2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5A14B8721B5C17CD00D51D21 /* iphone-twrly-load2.jpg */; };
 		CED8AF9678265C8D61BAE291 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5366465104405BB73313F13B /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -63,9 +63,9 @@
 		5A14B8161B5B29C500D51D21 /* libTelephonyIOKitDynamic.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libTelephonyIOKitDynamic.dylib; path = usr/lib/libTelephonyIOKitDynamic.dylib; sourceTree = SDKROOT; };
 		5A14B8171B5B29C500D51D21 /* libTelephonyUSBDynamic.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libTelephonyUSBDynamic.dylib; path = usr/lib/libTelephonyUSBDynamic.dylib; sourceTree = SDKROOT; };
 		5A14B8181B5B29C500D51D21 /* libTelephonyUtilDynamic.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libTelephonyUtilDynamic.dylib; path = usr/lib/libTelephonyUtilDynamic.dylib; sourceTree = SDKROOT; };
-		5A14B86A1B5BD2C100D51D21 /* iphone-twrly-1e.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iphone-twrly-1e.png"; path = "../../../../../../Downloads/iphone-twrly-1e.png"; sourceTree = "<group>"; };
-		5A14B86B1B5BD2C100D51D21 /* iphone-twrly-load2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "iphone-twrly-load2.jpg"; path = "../../../../../../Downloads/iphone-twrly-load2.jpg"; sourceTree = "<group>"; };
-		5A14B86E1B5BF20500D51D21 /* iphone-twrly-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iphone-twrly-2.png"; path = "../../../../../../Downloads/iphone-twrly-2.png"; sourceTree = "<group>"; };
+		5A14B8701B5C17CD00D51D21 /* iphone-twrly-1e.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iphone-twrly-1e.png"; path = "../../../../../Downloads/iphone-twrly-1e.png"; sourceTree = "<group>"; };
+		5A14B8711B5C17CD00D51D21 /* iphone-twrly-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iphone-twrly-2.png"; path = "../../../../../Downloads/iphone-twrly-2.png"; sourceTree = "<group>"; };
+		5A14B8721B5C17CD00D51D21 /* iphone-twrly-load2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "iphone-twrly-load2.jpg"; path = "../../../../../Downloads/iphone-twrly-load2.jpg"; sourceTree = "<group>"; };
 		9C93F66269F62ED13CAE58AD /* libPods-RemoteMusic.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RemoteMusic.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F847EA0279848E30A3BE221 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -134,10 +134,10 @@
 				5A14B66B1B5AF0EB00D51D21 /* AppDelegate.m */,
 				5A14B66D1B5AF0EB00D51D21 /* ViewController.h */,
 				5A14B66E1B5AF0EB00D51D21 /* ViewController.m */,
+				5A14B8701B5C17CD00D51D21 /* iphone-twrly-1e.png */,
+				5A14B8711B5C17CD00D51D21 /* iphone-twrly-2.png */,
+				5A14B8721B5C17CD00D51D21 /* iphone-twrly-load2.jpg */,
 				5A14B6701B5AF0EB00D51D21 /* Main.storyboard */,
-				5A14B86A1B5BD2C100D51D21 /* iphone-twrly-1e.png */,
-				5A14B86E1B5BF20500D51D21 /* iphone-twrly-2.png */,
-				5A14B86B1B5BD2C100D51D21 /* iphone-twrly-load2.jpg */,
 				5A14B6731B5AF0EB00D51D21 /* Images.xcassets */,
 				5A14B6751B5AF0EB00D51D21 /* LaunchScreen.xib */,
 				5A14B6661B5AF0EB00D51D21 /* Supporting Files */,
@@ -277,11 +277,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				5A14B6721B5AF0EB00D51D21 /* Main.storyboard in Resources */,
-				5A14B86C1B5BD2C100D51D21 /* iphone-twrly-1e.png in Resources */,
-				5A14B86D1B5BD2C100D51D21 /* iphone-twrly-load2.jpg in Resources */,
 				5A14B6771B5AF0EB00D51D21 /* LaunchScreen.xib in Resources */,
-				5A14B86F1B5BF20600D51D21 /* iphone-twrly-2.png in Resources */,
+				5A14B8751B5C17CD00D51D21 /* iphone-twrly-load2.jpg in Resources */,
 				5A14B6741B5AF0EB00D51D21 /* Images.xcassets in Resources */,
+				5A14B8741B5C17CD00D51D21 /* iphone-twrly-2.png in Resources */,
+				5A14B8731B5C17CD00D51D21 /* iphone-twrly-1e.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
