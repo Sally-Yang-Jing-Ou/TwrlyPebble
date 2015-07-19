@@ -1,0 +1,31 @@
+{
+    "appKeys": {
+        "GESTURE_TYPE_KEY": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "azhang9@gmail.com",
+    "longName": "Twrly",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/twrl-peb.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Twrly",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "666b161c-3c53-44bd-ac5f-3e3d3f0f4afe",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
