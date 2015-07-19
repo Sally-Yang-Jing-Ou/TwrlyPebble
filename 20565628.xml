@@ -1,0 +1,21 @@
+<rss version="2.0">
+	<channel>
+		<title>RSS Feed for IFTTT</title>
+		<link>http://rosexu.github.io/BattleHackRSS/20565628</link>
+		<description>Personalized RSS for user 20565628</description>
+		<item>
+			<title>make music</title>
+			<link>http://rosexu.github.io/BattleHackRSS/20565628</link>
+			<description>Personalized RSS for user 20565628</description>
+			<pubDate>Sun, 19 Jul 2015 11:04:48 -0000</pubDate>
+			<guid>http://rosexu.github.io/BattleHackRSS/205656281</guid>
+		</item>
+		<item>
+			<title>hola friend</title>
+			<link>link</link>
+			<description>description</description>
+			<pubDate>Sun, 19 Jul 2015 11:49:03 -0000</pubDate>
+			<guid>http://rosexu.github.io/BattleHackRSS/205656282</guid>
+		</item>
+	</channel>
+</rss>

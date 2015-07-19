@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+	<channel>
+		<title>RSS hack</title>
+		<link>http://rosexu.github.io/BattleHackRSS</link>
+		<description>testing RSS</description>
+
+		<item>
+			<title>Turn off music</title>
+			<link>http://www.w3schools.com/webservices</link>
+			<description>turn the music off</description>
+			<pubDate>Wed, 02 Oct 2002 08:00:00 EST</pubDate>
+			<guid>http://rosexu.github.io/BattleHackRSS/1</guid>
+		</item>
+		<item>
+			<title>Turn on music</title>
+			<link>http://www.w3schools.com/music</link>
+			<description>turn the music on</description>
+			<pubDate>Sat, 18 Jul 2015 17:36:00 EST</pubDate>
+			<guid>http://rosexu.github.io/BattleHackRSS/2</guid>
+		</item>
+		<item>
+			<title>Turn off music</title>
+			<link>http://www.w3schools.com/music1</link>
+			<description>turn the music on</description>
+			<pubDate>Sat, 18 Jul 2015 18:02:00 EST</pubDate>
+			<guid>http://rosexu.github.io/BattleHackRSS/3</guid>
+		</item>
+		<item>
+			<title>Turn off music</title>
+			<link>http://www.w3schools.com/music3</link>
+			<description>turn the music on</description>
+			<pubDate>Sat, 18 Jul 2015 18:30:00 EST</pubDate>
+			<guid>http://rosexu.github.io/BattleHackRSS/4</guid>
+		</item>
+	</channel>
+
+</rss>
