@@ -1,0 +1,2 @@
+BRAINTREE_LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/Braintree/Braintree/PayPal/mSDK"
+BRAINTREE_OTHER_LDFLAGS = -ObjC -l"PayPalMobile-BT" -l"c++" -framework "AVFoundation" -framework "Accelerate" -framework "AddressBook" -framework "AudioToolbox" -framework "CoreLocation" -framework "CoreMedia" -framework "MessageUI" -framework "MobileCoreServices" -framework "SystemConfiguration" -framework "UIKit" -weak_framework "PassKit"

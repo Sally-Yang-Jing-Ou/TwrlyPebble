@@ -1,0 +1,68 @@
+PODS:
+  - AFNetworking (2.5.3):
+    - AFNetworking/NSURLConnection (= 2.5.3)
+    - AFNetworking/NSURLSession (= 2.5.3)
+    - AFNetworking/Reachability (= 2.5.3)
+    - AFNetworking/Security (= 2.5.3)
+    - AFNetworking/Serialization (= 2.5.3)
+    - AFNetworking/UIKit (= 2.5.3)
+  - AFNetworking/NSURLConnection (2.5.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.3)
+  - AFNetworking/Security (2.5.3)
+  - AFNetworking/Serialization (2.5.3)
+  - AFNetworking/UIKit (2.5.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Braintree (3.9.2):
+    - Braintree/API (= 3.9.2)
+    - Braintree/Coinbase (= 3.9.2)
+    - Braintree/Drop-In (= 3.9.2)
+    - Braintree/Payments (= 3.9.2)
+    - Braintree/PayPal (= 3.9.2)
+    - Braintree/UI (= 3.9.2)
+    - Braintree/Venmo (= 3.9.2)
+  - Braintree/API (3.9.2)
+  - Braintree/Coinbase (3.9.2):
+    - Braintree/API
+  - Braintree/Drop-In (3.9.2):
+    - Braintree/API
+    - Braintree/Coinbase
+    - Braintree/Payments
+    - Braintree/PayPal
+    - Braintree/UI
+    - Braintree/Venmo
+  - Braintree/Payments (3.9.2):
+    - Braintree/API
+    - Braintree/Coinbase
+    - Braintree/PayPal
+    - Braintree/Venmo
+  - Braintree/PayPal (3.9.2):
+    - Braintree/API
+    - Braintree/UI
+  - Braintree/UI (3.9.2):
+    - Braintree/API
+  - Braintree/Venmo (3.9.2):
+    - Braintree/API
+  - GVMusicPlayerController (0.5.0)
+  - PebbleKit (2.4)
+
+DEPENDENCIES:
+  - AFNetworking (= 2.5.3)
+  - Braintree
+  - GVMusicPlayerController (= 0.5.0)
+  - PebbleKit
+
+SPEC CHECKSUMS:
+  AFNetworking: e1d86c2a96bb5d2e7408da36149806706ee122fe
+  Braintree: 7df7050fd35c19a7e81409b15efe0320b980b3d4
+  GVMusicPlayerController: e412503c741bb8218d599b2b95f268405c2ccdb1
+  PebbleKit: e8650801927bd7272da83c8a21fb94d2af24465b
+
+COCOAPODS: 0.38.0

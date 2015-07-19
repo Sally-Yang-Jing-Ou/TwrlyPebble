@@ -1,0 +1,1 @@
+../../../../PebbleKit/PebbleVendor.framework/Versions/A/Headers/NSString+HexData.h
