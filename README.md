@@ -9,6 +9,10 @@ Make seamless payments with a flick of the wrist, with the power of the BrainTre
 
 Made in 24 hours at [BattleHack Toronto](https://2015.battlehack.org/toronto)!
 
+For the sake of completeness, here's a picture of a fox:
+
+![](fox.jpg)
+
 Screenshots
 -----------
 
